@@ -1,9 +1,9 @@
-![macOS](https://img.shields.io/badge/macOS-10.15.7-orange.svg)
-![OpenCore](https://img.shields.io/badge/OpenCore-0.6.3-blue.svg)
+![macOS](https://img.shields.io/badge/macOS-12.3.1-orange.svg)
+![OpenCore](https://img.shields.io/badge/OpenCore-0.7.8-blue.svg)
 [![BIOS](https://img.shields.io/badge/BIOS-1.60-brightgreen.svg)](http://www.asrock.com/mb/Intel/H170%20Pro4/?cat=Download&os=BIOS#BIOS)
 
 # Hackintosh on ASRock H170 Pro4
-Verified working with macOS version 10.15.7 on OpenCore 0.6.3
+Verified working with macOS version 12.3.1 on OpenCore 0.7.8
 
 ![Overview](images/overview.png)
 
